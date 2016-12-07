@@ -1483,7 +1483,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-60.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-61.png",
             "bgColor": "#460022",
             "bgColorRadio": false,
             "overlay": true,
