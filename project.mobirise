@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nefarious Miscreants",
-    "currentPage": "index.html",
+    "currentPage": "walkthru.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "publishType": "github",
+    "publishType": "local",
     "publishPath": "file:///I:/Nerfarious%20Misc/Website"
   },
   "pages": {
@@ -35,7 +35,7 @@
       "settings": {
         "main": true,
         "title": "Nefarious Miscreants | Homepage",
-        "meta_descr": "",
+        "meta_descr": "Just four nerds who banded together to create video game content for other nerds.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -66,7 +66,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/nmyoutube-2000x1125-38.png",
+                "image": "@PROJECT_PATH@/assets/images/nmyoutube-2000x1125-38-2000x1125-33.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -81,8 +81,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-70.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-64.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -97,8 +97,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw/about?&amp;ab_channel=NefariousMiscreants\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIST OUR YOUTUBE</a>   "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/val-zen-2000x1125-58.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/val-zen-2000x1125-58-2000x1125-99.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -114,7 +114,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/walkthrough-icon-001-005-2000x1125-28.png",
+                "image": "@PROJECT_PATH@/assets/images/walkthrough-icon-001-005-2000x1125-28-2000x1125-12.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -167,6 +167,18 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "H4": {
+              "color": "#efefef",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
           "_anchor": "features6-f",
           "_params": {
             "paddingTop": 2,
@@ -276,19 +288,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "H4": {
-              "color": "#efefef",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -497,7 +497,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Nefarious <br>Miscreants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -516,7 +516,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-50.png",
             "bgColor": "#460022",
             "bgColorRadio": false,
             "overlay": true,
@@ -654,7 +654,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Nefarious <br>Miscreants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
         },
         {
           "_tags": [
@@ -686,12 +686,22 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
           "_anchor": "header1-k",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-41.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-71.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -708,17 +718,7 @@
           },
           "title": "Let's Plays",
           "text": "Coming Soon",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBCRIBE TO YOUTUBE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://twitter.com/NefariousMisc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOLLOW OUR TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/NefariousMiscreants/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIKE OUR FACEBOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://nefariousmiscreants.tumblr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOLLOW OUR TUMBLR</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SUBCRIBE TO YOUTUBE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://twitter.com/NefariousMisc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOLLOW OUR TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/NefariousMiscreants/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIKE OUR FACEBOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://nefariousmiscreants.tumblr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOLLOW OUR TUMBLR</a> "
         }
       ]
     },
@@ -823,7 +823,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Nefarious <br>Miscreants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
         },
         {
           "_tags": [
@@ -870,7 +870,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-41.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-74.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -992,7 +992,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Nefarious <br>Miscreants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
         },
         {
           "_tags": [
@@ -1039,7 +1039,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-41.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-76.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1161,7 +1161,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Nefarious <br>Miscreants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
         },
         {
           "_tags": [
@@ -1219,7 +1219,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-18.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-72.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1272,6 +1272,14 @@
             "Theme"
           ],
           "_name": "video1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "video1-16",
           "_params": {
             "showText": true
@@ -1288,15 +1296,7 @@
               "loop": false
             }
           },
-          "text": "<p>Twodots Walkthrough: Episode 1 - <br>A walkthrough of the first five levels for the mobile game, TwoDots</p>",
-          "_styles": {
-            "P": {
-              "text-align": "right",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px"
-            }
-          }
+          "text": "<p>Twodots Walkthrough: Episode 1 - <br>A walkthrough of the first five levels for the mobile game, TwoDots</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1315,7 +1315,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-65.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-6-2000x1125-73.png",
             "bgColor": "#460022",
             "bgColorRadio": false,
             "overlay": true,
@@ -1428,7 +1428,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Nefarious <br>Miscreants</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHAT WE DO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lp.html\">LET'S PLAYS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"walkthru.html\">WALKTHROUGHS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reviews.html\">REVIEWS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"podcast.html\">PODCAST</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-e\">THE MISCREANTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-9\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCSr9-UQcZYlYLe0LBX2T-Jw?&amp;ab_channel=NefariousMiscreants\" target=\"_blank\">YOUTUBE</a></li>"
         },
         {
           "_tags": [
