@@ -27,7 +27,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "file:///I:/Nerfarious%20Misc/Website"
   },
   "pages": {
@@ -1315,7 +1315,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-64.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nm-bg-2000x1125-65.png",
             "bgColor": "#460022",
             "bgColorRadio": false,
             "overlay": true,
